@@ -1,3 +1,5 @@
+package TA_WEAK3;
+
 import java.util.Scanner;
 
 public class PascalTriangle {
